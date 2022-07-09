@@ -20,7 +20,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SciChart",
-            url: "https://github.com/ABTSoftware/\(repo)/releases/download/v\(version)/SciChart_iOS_\(version).zip",
+            url: "https://github.com/ABTSoftware/PodSpecs/archive/refs/tags/v4.4.0.5839.zip",
             checksum: "ed7a831224f1e38fb6d0d750ac0b238d9dfbe7e9aed14af0d35f85f4f7fcf806"
         ),
     ]
